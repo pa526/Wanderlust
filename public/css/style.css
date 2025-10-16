@@ -187,10 +187,3 @@ body {
   padding: 0.5rem 1rem 0.5rem 1rem;
   font-size: 1rem;
 }
-
-@media (width < 500px) {
-  .show-page {
-    margin: 0px;
-    padding: 0px;
-  }
-}
